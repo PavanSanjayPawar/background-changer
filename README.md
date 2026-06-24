@@ -1,21 +1,25 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎨 Background Changer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, fast, and interactive React web application that allows users to change the background color of the page dynamically with a single click. 
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* ** Instantly updates the background color upon clicking.
+* ** Clean, minimalist, and responsive design powered by Tailwind CSS.
+* ** Built using clean and reusable React functional components.
+* ** Looks great on desktops, tablets, and mobile devices.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+* **Frontend:** React.js (Vite)
+* **Styling:** Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# background-changer
-A simple background color changer built with React, Tailwind CSS, and Vite, allowing users to change the background color with a click of a button.
->>>>>>> d6f8239471d69b1c89c9bf46e27e46a31e95cd5e
+
+---
+
+
+
+## ✨ Live Demo
+🔗 https://bg-changerreactvite.netlify.app/
